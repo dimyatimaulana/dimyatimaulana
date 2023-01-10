@@ -11,13 +11,13 @@ I am a student from [Telkom Purwokerto Institute of Technology](https://ittelkom
 If you are interested with me, you can follow my account [Instagram](https://www.instagram.com/alanmau_/).
 
 - 🔭 I’m currently studying in Telkom Purwokerto Institute of Technology
-- 🌱 I’m currently learning about Web Programming
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning about React, State Management, UI Builders
+- 👯 I’m looking to collaborate on Front-End Web Development
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me anything related with my major
 - 📫 How to reach me: dimyatimaulana25@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love MMORPG games
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love both MMORPG games and MOBA games
 
 <p align="left">
 <a href="https://github.com/dimyatimaulana">
