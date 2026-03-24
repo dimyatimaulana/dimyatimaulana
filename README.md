@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 My name is **Maulana Dimyati**.\
-I am a student from [Telkom Purwokerto Institute of Technology](https://ittelkom-pwt.ac.id
+I am an ex student from [Telkom Purwokerto Institute of Technology](https://ittelkom-pwt.ac.id
 ).\
 If you are interested with me, you can follow my account [Instagram](https://www.instagram.com/alanmau_/).
 
